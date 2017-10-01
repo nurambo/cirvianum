@@ -8,3 +8,4 @@ numero1 = reader.nextInt();
 System.out.println("Introduce el segundo numero");
 numero2 = reader = reader.nextInt();
 
+Modificacio3
